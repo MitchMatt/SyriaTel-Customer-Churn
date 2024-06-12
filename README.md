@@ -1,5 +1,6 @@
 # SyriaTel Customer Churn Analysis
 
+![company logo](https://github.com/MitchMatt/SyriaTel-Customer-Churn/blob/main/company%20logo/logo%20syriatel.jpeg)
 
 ## Overview
 - **Company:** SyriaTel, a telecommunications company in Syria
